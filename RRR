@@ -1,0 +1,46 @@
+Instructions for AI Integrated into the Wiking Financial Model (Excel)
+Create a new worksheet named “Wellma Sites Dashboard”. Design it as a clean, professional, investor-ready dashboard that presents the following information for each Wellma site, using data from the existing Wiking Financial Model. Make the dashboard dynamic (formula-driven where possible) so it updates if underlying model inputs change.
+1. Operational Metrics by Site and as a % of Group (2026LF)
+Create a clear summary table (or set of tables) showing the following metrics for 2026LF:
+	•	Revenue
+	•	EBITDA
+	•	CAPEX Intensity (CAPEX as % of Revenue)
+	•	EBITDA – CAPEX (absolute and/or margin equivalent)
+Presentation requirements:
+	•	Show values by individual Wellma site.
+	•	Show each site’s contribution as a % of Group total.
+	•	Include Group totals for reference.
+	•	Use consistent formatting (numbers in millions or thousands as appropriate to the model, percentages to 1 decimal place).
+	•	Add a short note section addressing the open points raised:
+	◦	Flag that CAPEX Intensity and EBITDA – CAPEX can be shown both including and excluding expansion CAPEX.
+	◦	Provide both versions side-by-side (or via a simple toggle/dropdown if the model supports it) and clearly label them.
+	◦	Add a brief explanatory note: “Expansion CAPEX excluded version is provided for operational intensity analysis; full CAPEX version shown for completeness.”
+2. Site Build-up (2023A, 2026LF, 2031E)
+Create a second section that tracks the evolution of each Wellma site across the three periods: 2023A, 2026LF, and 2031E.
+Required views:
+	•	Format Mix
+	◦	Show the breakdown of formats (e.g., by store type, size band, or whatever format classifications exist in the model) for each site and period.
+	◦	Display both absolute numbers and mix percentages.
+	◦	Include a visual or clear tabular comparison that highlights how the format mix has evolved over time.
+	•	Customer Concentration
+	◦	Show customer concentration metrics (e.g., top customer share, top 5 / top 10 concentration, or other concentration measures available in the model) by site and period.
+	◦	Present both absolute and percentage views where relevant.
+	◦	Highlight the evolution of concentration over the three periods.
+Presentation requirements:
+	•	Organize by site, with periods shown side-by-side or in a clear time-series layout.
+	•	Use conditional formatting or simple sparklines/charts where helpful to show trends.
+	•	Include Group-level aggregates or averages for context where meaningful.
+	•	Add source notes or assumption footnotes (e.g., “Format classifications and customer concentration definitions as per Wiking model”).
+General Dashboard Design Guidelines
+	•	Place Section 1 (Operational Metrics 2026LF) at the top of the sheet.
+	•	Place Section 2 (Site Build-up) below it, or on the right if space allows for a side-by-side layout.
+	•	Use a professional color scheme consistent with the rest of the model (or neutral blues/greys).
+	•	Include a header with the title “Wellma Sites Dashboard – Operational Metrics & Build-up” and a subtitle noting the source (“Wiking Financial Model”).
+	•	Add a small legend or notes box covering:
+	◦	Definitions of key metrics
+	◦	Treatment of expansion CAPEX
+	◦	Periods covered (2023A / 2026LF / 2031E)
+	•	Ensure the sheet is print-friendly and easy to navigate (freeze panes on headers, clear section breaks).
+	•	Do not hardcode values; link all figures back to the relevant model sheets/ranges.
+	•	If any required data is missing or ambiguous in the model, flag it clearly with a comment or yellow highlight and note the assumption used.
+Once complete, the dashboard should allow a reader to quickly understand both the 2026LF operational contribution of each Wellma site (including CAPEX intensity variants) and how format mix and customer concentration have evolved / are expected to evolve across 2023A–2031E.
