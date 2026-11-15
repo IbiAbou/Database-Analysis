@@ -1,0 +1,27 @@
+I've taken photo 1 to be the page with the yellow NTD boxes ("Iberian Volume Demand Dynamics"), photo 2 to be "Steady Iberian Fuel Demand Dynamics" and photo 3 to be "Slow EV Transition in Iberia". All figures come from those two pages unless I say otherwise.
+
+**Top left – Total car parc, supporting points**
+- The Iberian car parc has grown steadily from 37.6m in 2019 to 41.1m in 2025, a CAGR of +1.5%. It kept growing through COVID (37.6m to 37.9m in 2020), showing the stock is resilient even when new-car sales fall.
+- Iberia has one of Europe's oldest fleets, at an average age of c.14 years vs c.12.5 years for Europe. Average vehicle prices rose 19% between 2020 and 2025, which keeps older cars on the road and slows fleet renewal.
+- Population growth of c.4% over the same period has supported the parc's growth, and the historical trend is expected to continue.
+
+**Bottom left – Key points about fuel demand in Iberia**
+- Spanish road fuel demand grew at a +2.3% CAGR before COVID and has rebounded at a +2.6% CAGR since 2020, supported by a growing car parc and tourism (96.8m international visitors to Spain in 2025, +3.2%).
+- Demand is diesel-led: diesel is c.76% of Spanish road fuel (CORES 2025A), reflecting a diesel-heavy fleet and strong commercial and freight use.
+- Car parc growth and slow EV take-up should keep any decline in fuel demand muted in the near term. Pressure on volumes should build as EV adoption speeds up towards the EU's 2035 targets.
+
+**Top right – Total distance travelled and average distance per car, supporting points**
+- Average distance per car has fallen only slightly, from 8,651km in 2019 to 8,458km in 2025, a CAGR of (0.4%). After the COVID low of 6,886km, 2025 was back to c.98% of the 2019 level.
+- Structural factors have reduced how much people need to drive: more working from home (c.5% before COVID vs c.15% after), a shift to walking and public transport, higher fuel costs and lower urban speed limits (30km/h).
+- Total distance travelled is still rising, from 325.7bn km in 2019 to 347.9bn km in 2025 (+1.1% CAGR). The drivers are parc growth, tourism and domestic leisure travel, and longer commutes as people move to the suburbs.
+
+**Bottom right – Summary of key points on the EV transition**
+- Iberia is behind Europe on EVs. BEVs are only c.1.5% of the Spanish car parc (vs c.5% in the UK) and 12% of new registrations in 2025 (vs c.23% in the UK). BEVs and PHEVs together are 20% of new car sales vs 27% for the EU-27.
+- Charging infrastructure is the main bottleneck. Spain has 805 public charge points per million people vs 1,877 for the EU-27, and 23.6% of Spain's 58k installed points were not working in Q3 2026.
+- Policy support is building, through the €400m Auto+ programme under Spain's Auto 2030 Plan. But a proposal to soften the EU 2035 target, OEMs scaling back EV plans and gaps in consumer knowledge (93% of Spanish drivers) point to a gradual transition.
+
+Things to fix on the slides:
+- **Distance units:** the total-distance charts on photos 1 and 2 say "km in millions". 41.1m cars × 8,458km is about 348 billion km, so the label should be "km in billions". I've used bn km above.
+- **Leftover UK text:** the current commentary boxes refer to the "UK car parc" and "EV penetration of the total UK car parc". It looks copied from a UK deck, so make sure it's all replaced.
+- **Fleet age:** for a precise figure, ACEA gives an average car age of 14.5 years for Spain and 14.1 for Portugal vs 12.7 for the EU.
+- **Fuel demand forecasts:** I kept the outlook qualitative. The "(2.6%) CAGR" decline in the current bottom-left box isn't backed by anything on these pages, so check its source before keeping it.
